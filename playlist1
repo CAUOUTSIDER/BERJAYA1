@@ -292,50 +292,6 @@ window.location = "https://t.me/+-viX677AoCRkMjFll";
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
------ EPG -----
-
-
-#EXTM3U
-
-#EXTM3U url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml" refresh="12"
-
------ OTT Nav -----
-
-#EXTINF:-1 group-logo="https://i.ibb.co/J3wGDJN/image.png",
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J3wGDJN/image.png" group-title="| OTT Nav",Kirim Donate Agar Admin Semangat Menyusun Playlist ini
-https://ott.my.id/live/ottnav.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J3wGDJN/image.png" group-title="| OTT Nav",Join Group • t.me/+-viX677AoCRkMjFl
-https://ott.my.id/live/ottnav.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J3wGDJN/image.png" group-title="| OTT Nav",Donate • saweria.co/OTTNav
-https://ott.my.id/live/ottnav.ts
-
 ----- LIVE LIGA BRI -----
 
 #EXTINF:-1 group-logo="https://i.ibb.co/g65bMcF/BRI-Liga-1-svg.png",
